@@ -1,0 +1,15 @@
+C:\Users\emanu\Desktop\Analisis de datos\Ejercicios\Concurrencia\obj\Debug\net6.0\Concurrencia.csproj.AssemblyReference.cache
+C:\Users\emanu\Desktop\Analisis de datos\Ejercicios\Concurrencia\obj\Debug\net6.0\Concurrencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\Desktop\Analisis de datos\Ejercicios\Concurrencia\obj\Debug\net6.0\Concurrencia.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\Analisis de datos\Ejercicios\Concurrencia\obj\Debug\net6.0\Concurrencia.AssemblyInfo.cs
+C:\Users\emanu\Desktop\Analisis de datos\Ejercicios\Concurrencia\obj\Debug\net6.0\Concurrencia.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\Analisis de datos\Ejercicios\Concurrencia\bin\Debug\net6.0\Concurrencia.exe
+C:\Users\emanu\Desktop\Analisis de datos\Ejercicios\Concurrencia\bin\Debug\net6.0\Concurrencia.deps.json
+C:\Users\emanu\Desktop\Analisis de datos\Ejercicios\Concurrencia\bin\Debug\net6.0\Concurrencia.runtimeconfig.json
+C:\Users\emanu\Desktop\Analisis de datos\Ejercicios\Concurrencia\bin\Debug\net6.0\Concurrencia.dll
+C:\Users\emanu\Desktop\Analisis de datos\Ejercicios\Concurrencia\bin\Debug\net6.0\Concurrencia.pdb
+C:\Users\emanu\Desktop\Analisis de datos\Ejercicios\Concurrencia\obj\Debug\net6.0\Concurrencia.dll
+C:\Users\emanu\Desktop\Analisis de datos\Ejercicios\Concurrencia\obj\Debug\net6.0\refint\Concurrencia.dll
+C:\Users\emanu\Desktop\Analisis de datos\Ejercicios\Concurrencia\obj\Debug\net6.0\Concurrencia.pdb
+C:\Users\emanu\Desktop\Analisis de datos\Ejercicios\Concurrencia\obj\Debug\net6.0\Concurrencia.genruntimeconfig.cache
+C:\Users\emanu\Desktop\Analisis de datos\Ejercicios\Concurrencia\obj\Debug\net6.0\ref\Concurrencia.dll
